@@ -19,7 +19,7 @@ main{
     color: white;
     max-width: 800px;
     margin: 0 auto;
-    padding: 16px;
+    padding: 20px;
 }
 article{
     display: flex;
